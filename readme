@@ -8,7 +8,7 @@ This is a simple Python project that translates text to Morse code and vice vers
 
 ## How to Run
 1. Clone the repository.
-2. Run the `morse_code_translator.py` file.
+2. Run the `main.py` file.
 3. Follow the prompts in the terminal.
 
 ## License
