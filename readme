@@ -1,1 +1,16 @@
-Morse Code Translator 
+# Morse Code Translator
+
+This is a simple Python project that translates text to Morse code and vice versa.
+
+## Features
+- Encode text to Morse code
+- Decode Morse code to text
+
+## How to Run
+1. Clone the repository.
+2. Run the `morse_code_translator.py` file.
+3. Follow the prompts in the terminal.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
+
